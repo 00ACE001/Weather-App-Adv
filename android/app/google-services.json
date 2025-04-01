@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328371012229",
+    "project_id": "news-app-529f3",
+    "storage_bucket": "news-app-529f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328371012229:android:e94f00e68be3164ae45fec",
+        "android_client_info": {
+          "package_name": "com.example.wether_app_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApKcPAzhSqZ4N3vtRKrQ2KTQmC4veY7qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
